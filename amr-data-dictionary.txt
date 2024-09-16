@@ -5,3 +5,11 @@ AMR data
 These data represent the sort of data that might be obtained from the 2nd generation surveillance system.
 
 * id Integer - A unique identifier for each person
+* dob Character - string giving the date of birth
+* ethnicity Character - indicates the self-reported ethnicity group according tot he Office of National Statistics groupings 
+* spec_date Character - a string giving the date the specimen was taken
+* sex_male Binary - indicates whether the person from whom the speciment was taken was male or not. 1 (male) 0 (not male)
+* region Character - a string identifying the region in England the laboratory testing the specimen is
+* had_surgery_past_year Binary - indicated whether the person who the specimen was taken had surgery in past year. 1 (yes) 0 (no)
+* imd Integer - indicates the index of Multiple Deprevation for residence for person whom specimen was taken. Range: 1 (most deprived) - 5 (least deprived)
+* organism Character - a string identifying the organism isolated from the specimen given 
