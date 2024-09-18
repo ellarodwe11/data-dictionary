@@ -1,6 +1,8 @@
 AMR data 
 
 18/09/2024 # last update of AMR data dictionary 
+Author: Ella
+Edited: Yanshi
 
 100,000 rows of 12 variables
 
